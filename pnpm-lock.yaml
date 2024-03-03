@@ -15,13 +15,13 @@ importers:
   apps/web:
     dependencies:
       next:
-        specifier: ^14.0.4
+        specifier: 14.0.4
         version: 14.0.4(react-dom@18.2.0)(react@18.2.0)
       react:
-        specifier: ^18.2.0
+        specifier: 18.2.0
         version: 18.2.0
       react-dom:
-        specifier: ^18.2.0
+        specifier: 18.2.0
         version: 18.2.0(react@18.2.0)
     devDependencies:
       '@ignite-find-a-friend/eslint-config':
@@ -31,25 +31,25 @@ importers:
         specifier: workspace:*
         version: link:../../packages/typescript-config
       '@next/eslint-plugin-next':
-        specifier: ^14.0.4
+        specifier: 14.0.4
         version: 14.0.4
       '@types/eslint':
-        specifier: ^8.56.1
+        specifier: 8.56.1
         version: 8.56.1
       '@types/node':
-        specifier: ^20.10.6
+        specifier: 20.10.6
         version: 20.10.6
       '@types/react':
-        specifier: ^18.2.46
+        specifier: 18.2.46
         version: 18.2.46
       '@types/react-dom':
-        specifier: ^18.2.18
+        specifier: 18.2.18
         version: 18.2.18
       eslint:
-        specifier: ^8.56.0
+        specifier: 8.56.0
         version: 8.56.0
       typescript:
-        specifier: ^5.3.3
+        specifier: 5.3.3
         version: 5.3.3
 
   packages/eslint-config:
@@ -1866,6 +1866,7 @@ packages:
   /nanoid@3.3.7:
     resolution: {integrity: sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==}
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
+    hasBin: true
     dev: false
 
   /natural-compare@1.4.0:
@@ -2533,6 +2534,7 @@ packages:
   /typescript@5.3.3:
     resolution: {integrity: sha512-pXWcraxM0uxAS+tN0AG/BF2TyqmHO014Z070UsJ+pFvYuRSq8KH8DmWpnbXe0pEPDHXZV3FcAbJkijJ5oNEnWw==}
     engines: {node: '>=14.17'}
+    hasBin: true
     dev: true
 
   /unbox-primitive@1.0.2:
