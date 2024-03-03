@@ -67,7 +67,14 @@ importers:
         specifier: 2.3.5
         version: 2.3.5
 
-  packages/typescript-config: {}
+  packages/typescript-config:
+    devDependencies:
+      '@tsconfig/next':
+        specifier: 2.0.1
+        version: 2.0.1
+      '@tsconfig/node20':
+        specifier: 20.1.2
+        version: 20.1.2
 
 packages:
 
@@ -292,6 +299,14 @@ packages:
     dependencies:
       tslib: 2.6.2
     dev: false
+
+  /@tsconfig/next@2.0.1:
+    resolution: {integrity: sha512-8Za+6fv85ipdoO1u/Xknyurab8T92LbS0/KzRB0/GHvPh3xl0L4yf5+VmSxXNwjF1uS/xLSqf+BPhfaqasCpZw==}
+    dev: true
+
+  /@tsconfig/node20@20.1.2:
+    resolution: {integrity: sha512-madaWq2k+LYMEhmcp0fs+OGaLFk0OenpHa4gmI4VEmCKX4PJntQ6fnnGADVFrVkBj0wIdAlQnK/MrlYTHsa1gQ==}
+    dev: true
 
   /@types/eslint@8.56.1:
     resolution: {integrity: sha512-18PLWRzhy9glDQp3+wOgfLYRWlhgX0azxgJ63rdpoUHyrC9z0f5CkFburjQx4uD7ZCruw85ZtMt6K+L+R8fLJQ==}
