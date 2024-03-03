@@ -8,7 +8,7 @@
     "lint:fix": "turbo lint:fix"
   },
   "devDependencies": {
-    "turbo": "latest"
+    "turbo": "1.12.4"
   },
   "packageManager": "pnpm@8.15.4",
   "engines": {
