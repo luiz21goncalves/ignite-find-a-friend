@@ -1,0 +1,21 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "dependencies": {
+    "fastify": "4.26.2"
+  },
+  "devDependencies": {
+    "@ignite-find-a-friend/eslint-config": "workspace:*",
+    "@ignite-find-a-friend/typescript-config": "workspace:*",
+    "@types/node": "20.10.6",
+    "eslint": "8.56.0",
+    "tsx": "4.7.1",
+    "typescript": "5.3.3"
+  }
+}

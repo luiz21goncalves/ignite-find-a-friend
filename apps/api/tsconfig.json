@@ -1,0 +1,5 @@
+{
+  "extends": "@ignite-find-a-friend/typescript-config/base.json",
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules"]
+}
