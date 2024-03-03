@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint . --max-warnings 0"
+    "lint": "eslint . ",
+    "lint:fix": "eslint . --fix"
   },
   "dependencies": {
     "@repo/ui": "workspace:*",
@@ -16,7 +17,7 @@
   },
   "devDependencies": {
     "@next/eslint-plugin-next": "^14.0.4",
-    "@repo/eslint-config": "workspace:*",
+    "@ignite-find-a-friend/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
     "@types/eslint": "^8.56.1",
     "@types/node": "^20.10.6",
