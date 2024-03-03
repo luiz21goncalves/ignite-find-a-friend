@@ -3,9 +3,12 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "node --import tsx --env-file .env.development src/server.ts",
+    "dev": "pnpm run services:up && node --import tsx --env-file .env.development src/server.ts",
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix"
+    "lint:fix": "eslint . --fix",
+    "services:up": "docker compose up -d",
+    "services:down": "docker compose down",
+    "services:stop": "docker compose stop"
   },
   "dependencies": {
     "@fastify/cors": "9.0.1",
