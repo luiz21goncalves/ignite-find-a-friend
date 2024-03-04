@@ -1,4 +1,8 @@
+import { config } from 'dotenv'
+import { expand } from 'dotenv-expand'
 import { z } from 'zod'
+
+expand(config({ path: ['.env.development'] }))
 
 const envSchema = z.object({
   DATABASE_URL: z.string().url(),
@@ -17,5 +21,8 @@ if (env.success === false) {
     `Invalid environment variables. ${JSON.stringify(env.error.format())}`,
   )
 }
+
+console.log(process.env)
+console.log(env.data)
 
 export const ENV = env.data

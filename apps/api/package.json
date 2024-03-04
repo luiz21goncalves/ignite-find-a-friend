@@ -3,16 +3,20 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "dev": "pnpm run services:up && node --import tsx --env-file .env.development src/server.ts",
+    "dev": "pnpm run services:up && tsx --env-file .env.development src/server.ts",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "services:up": "docker compose up -d",
     "services:down": "docker compose down",
-    "services:stop": "docker compose stop"
+    "services:stop": "docker compose stop",
+    "migrate:dev": "dotenv -f .env.development -- pnpm prisma migrate dev"
   },
   "dependencies": {
     "@fastify/cors": "9.0.1",
+    "dotenv": "16.4.5",
+    "dotenv-expand": "11.0.6",
     "fastify": "4.26.2",
+    "http-status-codes": "2.3.0",
     "zod": "3.22.4"
   },
   "devDependencies": {
@@ -20,6 +24,7 @@
     "@ignite-find-a-friend/typescript-config": "workspace:*",
     "@types/node": "20.10.6",
     "eslint": "8.56.0",
+    "prisma": "5.10.2",
     "tsx": "4.7.1",
     "typescript": "5.3.3"
   }
