@@ -22,7 +22,4 @@ if (env.success === false) {
   )
 }
 
-console.log(process.env)
-console.log(env.data)
-
 export const ENV = env.data
