@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "prepare": "prisma generate",
     "dev": "pnpm run services:up && tsx --env-file .env.development src/server.ts",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
