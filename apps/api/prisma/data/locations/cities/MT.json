@@ -1,0 +1,566 @@
+[
+  {
+    "nome": "ACORIZAL",
+    "codigo_ibge": "5100102"
+  },
+  {
+    "nome": "AGUA BOA",
+    "codigo_ibge": "5100201"
+  },
+  {
+    "nome": "ALTA FLORESTA",
+    "codigo_ibge": "5100250"
+  },
+  {
+    "nome": "ALTO ARAGUAIA",
+    "codigo_ibge": "5100300"
+  },
+  {
+    "nome": "ALTO BOA VISTA",
+    "codigo_ibge": "5100359"
+  },
+  {
+    "nome": "ALTO GARCAS",
+    "codigo_ibge": "5100409"
+  },
+  {
+    "nome": "ALTO PARAGUAI",
+    "codigo_ibge": "5100508"
+  },
+  {
+    "nome": "ALTO TAQUARI",
+    "codigo_ibge": "5100607"
+  },
+  {
+    "nome": "APIACAS",
+    "codigo_ibge": "5100805"
+  },
+  {
+    "nome": "ARAGUAIANA",
+    "codigo_ibge": "5101001"
+  },
+  {
+    "nome": "ARAGUAINHA",
+    "codigo_ibge": "5101209"
+  },
+  {
+    "nome": "ARAPUTANGA",
+    "codigo_ibge": "5101258"
+  },
+  {
+    "nome": "ARENAPOLIS",
+    "codigo_ibge": "5101308"
+  },
+  {
+    "nome": "ARIPUANA",
+    "codigo_ibge": "5101407"
+  },
+  {
+    "nome": "BARAO DE MELGACO",
+    "codigo_ibge": "5101605"
+  },
+  {
+    "nome": "BARRA DO BUGRES",
+    "codigo_ibge": "5101704"
+  },
+  {
+    "nome": "BARRA DO GARCAS",
+    "codigo_ibge": "5101803"
+  },
+  {
+    "nome": "BOM JESUS DO ARAGUAIA",
+    "codigo_ibge": "5101852"
+  },
+  {
+    "nome": "BRASNORTE",
+    "codigo_ibge": "5101902"
+  },
+  {
+    "nome": "CACERES",
+    "codigo_ibge": "5102504"
+  },
+  {
+    "nome": "CAMPINAPOLIS",
+    "codigo_ibge": "5102603"
+  },
+  {
+    "nome": "CAMPO NOVO DO PARECIS",
+    "codigo_ibge": "5102637"
+  },
+  {
+    "nome": "CAMPO VERDE",
+    "codigo_ibge": "5102678"
+  },
+  {
+    "nome": "CAMPOS DE JULIO",
+    "codigo_ibge": "5102686"
+  },
+  {
+    "nome": "CANABRAVA DO NORTE",
+    "codigo_ibge": "5102694"
+  },
+  {
+    "nome": "CANARANA",
+    "codigo_ibge": "5102702"
+  },
+  {
+    "nome": "CARLINDA",
+    "codigo_ibge": "5102793"
+  },
+  {
+    "nome": "CASTANHEIRA",
+    "codigo_ibge": "5102850"
+  },
+  {
+    "nome": "CHAPADA DOS GUIMARAES",
+    "codigo_ibge": "5103007"
+  },
+  {
+    "nome": "CLAUDIA",
+    "codigo_ibge": "5103056"
+  },
+  {
+    "nome": "COCALINHO",
+    "codigo_ibge": "5103106"
+  },
+  {
+    "nome": "COLIDER",
+    "codigo_ibge": "5103205"
+  },
+  {
+    "nome": "COLNIZA",
+    "codigo_ibge": "5103254"
+  },
+  {
+    "nome": "COMODORO",
+    "codigo_ibge": "5103304"
+  },
+  {
+    "nome": "CONFRESA",
+    "codigo_ibge": "5103353"
+  },
+  {
+    "nome": "CONQUISTA D OESTE",
+    "codigo_ibge": "5103361"
+  },
+  {
+    "nome": "COTRIGUACU",
+    "codigo_ibge": "5103379"
+  },
+  {
+    "nome": "CUIABA",
+    "codigo_ibge": "5103403"
+  },
+  {
+    "nome": "CURVELANDIA",
+    "codigo_ibge": "5103437"
+  },
+  {
+    "nome": "DENISE",
+    "codigo_ibge": "5103452"
+  },
+  {
+    "nome": "DIAMANTINO",
+    "codigo_ibge": "5103502"
+  },
+  {
+    "nome": "DOM AQUINO",
+    "codigo_ibge": "5103601"
+  },
+  {
+    "nome": "FELIZ NATAL",
+    "codigo_ibge": "5103700"
+  },
+  {
+    "nome": "FIGUEIROPOLIS D OESTE",
+    "codigo_ibge": "5103809"
+  },
+  {
+    "nome": "GAUCHA DO NORTE",
+    "codigo_ibge": "5103858"
+  },
+  {
+    "nome": "GENERAL CARNEIRO",
+    "codigo_ibge": "5103908"
+  },
+  {
+    "nome": "GLORIA D OESTE",
+    "codigo_ibge": "5103957"
+  },
+  {
+    "nome": "GUARANTA DO NORTE",
+    "codigo_ibge": "5104104"
+  },
+  {
+    "nome": "GUIRATINGA",
+    "codigo_ibge": "5104203"
+  },
+  {
+    "nome": "INDIAVAI",
+    "codigo_ibge": "5104500"
+  },
+  {
+    "nome": "IPIRANGA DO NORTE",
+    "codigo_ibge": "5104526"
+  },
+  {
+    "nome": "ITANHANGA",
+    "codigo_ibge": "5104542"
+  },
+  {
+    "nome": "ITAUBA",
+    "codigo_ibge": "5104559"
+  },
+  {
+    "nome": "ITIQUIRA",
+    "codigo_ibge": "5104609"
+  },
+  {
+    "nome": "JACIARA",
+    "codigo_ibge": "5104807"
+  },
+  {
+    "nome": "JANGADA",
+    "codigo_ibge": "5104906"
+  },
+  {
+    "nome": "JAURU",
+    "codigo_ibge": "5105002"
+  },
+  {
+    "nome": "JUARA",
+    "codigo_ibge": "5105101"
+  },
+  {
+    "nome": "JUINA",
+    "codigo_ibge": "5105150"
+  },
+  {
+    "nome": "JURUENA",
+    "codigo_ibge": "5105176"
+  },
+  {
+    "nome": "JUSCIMEIRA",
+    "codigo_ibge": "5105200"
+  },
+  {
+    "nome": "LAMBARI D OESTE",
+    "codigo_ibge": "5105234"
+  },
+  {
+    "nome": "LUCAS DO RIO VERDE",
+    "codigo_ibge": "5105259"
+  },
+  {
+    "nome": "LUCIARA",
+    "codigo_ibge": "5105309"
+  },
+  {
+    "nome": "VILA BELA DA SANTISSIMA TRINDADE",
+    "codigo_ibge": "5105507"
+  },
+  {
+    "nome": "MARCELANDIA",
+    "codigo_ibge": "5105580"
+  },
+  {
+    "nome": "MATUPA",
+    "codigo_ibge": "5105606"
+  },
+  {
+    "nome": "MIRASSOL D OESTE",
+    "codigo_ibge": "5105622"
+  },
+  {
+    "nome": "NOBRES",
+    "codigo_ibge": "5105903"
+  },
+  {
+    "nome": "NORTELANDIA",
+    "codigo_ibge": "5106000"
+  },
+  {
+    "nome": "NOSSA SENHORA DO LIVRAMENTO",
+    "codigo_ibge": "5106109"
+  },
+  {
+    "nome": "NOVA BANDEIRANTES",
+    "codigo_ibge": "5106158"
+  },
+  {
+    "nome": "NOVA NAZARE",
+    "codigo_ibge": "5106174"
+  },
+  {
+    "nome": "NOVA LACERDA",
+    "codigo_ibge": "5106182"
+  },
+  {
+    "nome": "NOVA SANTA HELENA",
+    "codigo_ibge": "5106190"
+  },
+  {
+    "nome": "NOVA BRASILANDIA",
+    "codigo_ibge": "5106208"
+  },
+  {
+    "nome": "NOVA CANAA DO NORTE",
+    "codigo_ibge": "5106216"
+  },
+  {
+    "nome": "NOVA MUTUM",
+    "codigo_ibge": "5106224"
+  },
+  {
+    "nome": "NOVA OLIMPIA",
+    "codigo_ibge": "5106232"
+  },
+  {
+    "nome": "NOVA UBIRATA",
+    "codigo_ibge": "5106240"
+  },
+  {
+    "nome": "NOVA XAVANTINA",
+    "codigo_ibge": "5106257"
+  },
+  {
+    "nome": "NOVO MUNDO",
+    "codigo_ibge": "5106265"
+  },
+  {
+    "nome": "NOVO HORIZONTE DO NORTE",
+    "codigo_ibge": "5106273"
+  },
+  {
+    "nome": "NOVO SAO JOAQUIM",
+    "codigo_ibge": "5106281"
+  },
+  {
+    "nome": "PARANAITA",
+    "codigo_ibge": "5106299"
+  },
+  {
+    "nome": "PARANATINGA",
+    "codigo_ibge": "5106307"
+  },
+  {
+    "nome": "NOVO SANTO ANTONIO",
+    "codigo_ibge": "5106315"
+  },
+  {
+    "nome": "PEDRA PRETA",
+    "codigo_ibge": "5106372"
+  },
+  {
+    "nome": "PEIXOTO DE AZEVEDO",
+    "codigo_ibge": "5106422"
+  },
+  {
+    "nome": "PLANALTO DA SERRA",
+    "codigo_ibge": "5106455"
+  },
+  {
+    "nome": "POCONE",
+    "codigo_ibge": "5106505"
+  },
+  {
+    "nome": "PONTAL DO ARAGUAIA",
+    "codigo_ibge": "5106653"
+  },
+  {
+    "nome": "PONTE BRANCA",
+    "codigo_ibge": "5106703"
+  },
+  {
+    "nome": "PONTES E LACERDA",
+    "codigo_ibge": "5106752"
+  },
+  {
+    "nome": "PORTO ALEGRE DO NORTE",
+    "codigo_ibge": "5106778"
+  },
+  {
+    "nome": "PORTO DOS GAUCHOS",
+    "codigo_ibge": "5106802"
+  },
+  {
+    "nome": "PORTO ESPERIDIAO",
+    "codigo_ibge": "5106828"
+  },
+  {
+    "nome": "PORTO ESTRELA",
+    "codigo_ibge": "5106851"
+  },
+  {
+    "nome": "POXOREO",
+    "codigo_ibge": "5107008"
+  },
+  {
+    "nome": "PRIMAVERA DO LESTE",
+    "codigo_ibge": "5107040"
+  },
+  {
+    "nome": "QUERENCIA",
+    "codigo_ibge": "5107065"
+  },
+  {
+    "nome": "SAO JOSE DOS QUATRO MARCOS",
+    "codigo_ibge": "5107107"
+  },
+  {
+    "nome": "RESERVA DO CABACAL",
+    "codigo_ibge": "5107156"
+  },
+  {
+    "nome": "RIBEIRAO CASCALHEIRA",
+    "codigo_ibge": "5107180"
+  },
+  {
+    "nome": "RIBEIRAOZINHO",
+    "codigo_ibge": "5107198"
+  },
+  {
+    "nome": "RIO BRANCO",
+    "codigo_ibge": "5107206"
+  },
+  {
+    "nome": "SANTA CARMEM",
+    "codigo_ibge": "5107248"
+  },
+  {
+    "nome": "SANTO AFONSO",
+    "codigo_ibge": "5107263"
+  },
+  {
+    "nome": "SAO JOSE DO POVO",
+    "codigo_ibge": "5107297"
+  },
+  {
+    "nome": "SAO JOSE DO RIO CLARO",
+    "codigo_ibge": "5107305"
+  },
+  {
+    "nome": "SAO JOSE DO XINGU",
+    "codigo_ibge": "5107354"
+  },
+  {
+    "nome": "SAO PEDRO DA CIPA",
+    "codigo_ibge": "5107404"
+  },
+  {
+    "nome": "RONDOLANDIA",
+    "codigo_ibge": "5107578"
+  },
+  {
+    "nome": "RONDONOPOLIS",
+    "codigo_ibge": "5107602"
+  },
+  {
+    "nome": "ROSARIO OESTE",
+    "codigo_ibge": "5107701"
+  },
+  {
+    "nome": "SANTA CRUZ DO XINGU",
+    "codigo_ibge": "5107743"
+  },
+  {
+    "nome": "SALTO DO CEU",
+    "codigo_ibge": "5107750"
+  },
+  {
+    "nome": "SANTA RITA DO TRIVELATO",
+    "codigo_ibge": "5107768"
+  },
+  {
+    "nome": "SANTA TEREZINHA",
+    "codigo_ibge": "5107776"
+  },
+  {
+    "nome": "SANTO ANTONIO DO LESTE",
+    "codigo_ibge": "5107792"
+  },
+  {
+    "nome": "SANTO ANTONIO DO LEVERGER",
+    "codigo_ibge": "5107800"
+  },
+  {
+    "nome": "SAO FELIX DO ARAGUAIA",
+    "codigo_ibge": "5107859"
+  },
+  {
+    "nome": "SAPEZAL",
+    "codigo_ibge": "5107875"
+  },
+  {
+    "nome": "SERRA NOVA DOURADA",
+    "codigo_ibge": "5107883"
+  },
+  {
+    "nome": "SINOP",
+    "codigo_ibge": "5107909"
+  },
+  {
+    "nome": "SORRISO",
+    "codigo_ibge": "5107925"
+  },
+  {
+    "nome": "TABAPORA",
+    "codigo_ibge": "5107941"
+  },
+  {
+    "nome": "TANGARA DA SERRA",
+    "codigo_ibge": "5107958"
+  },
+  {
+    "nome": "TAPURAH",
+    "codigo_ibge": "5108006"
+  },
+  {
+    "nome": "TERRA NOVA DO NORTE",
+    "codigo_ibge": "5108055"
+  },
+  {
+    "nome": "TESOURO",
+    "codigo_ibge": "5108105"
+  },
+  {
+    "nome": "TORIXOREU",
+    "codigo_ibge": "5108204"
+  },
+  {
+    "nome": "UNIAO DO SUL",
+    "codigo_ibge": "5108303"
+  },
+  {
+    "nome": "VALE DE SAO DOMINGOS",
+    "codigo_ibge": "5108352"
+  },
+  {
+    "nome": "VARZEA GRANDE",
+    "codigo_ibge": "5108402"
+  },
+  {
+    "nome": "VERA",
+    "codigo_ibge": "5108501"
+  },
+  {
+    "nome": "VILA RICA",
+    "codigo_ibge": "5108600"
+  },
+  {
+    "nome": "NOVA GUARITA",
+    "codigo_ibge": "5108808"
+  },
+  {
+    "nome": "NOVA MARILANDIA",
+    "codigo_ibge": "5108857"
+  },
+  {
+    "nome": "NOVA MARINGA",
+    "codigo_ibge": "5108907"
+  },
+  {
+    "nome": "NOVA MONTE VERDE",
+    "codigo_ibge": "5108956"
+  }
+]

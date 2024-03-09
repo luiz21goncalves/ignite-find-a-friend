@@ -1,0 +1,62 @@
+[
+  {
+    "nome": "AMAJARI",
+    "codigo_ibge": "1400027"
+  },
+  {
+    "nome": "ALTO ALEGRE",
+    "codigo_ibge": "1400050"
+  },
+  {
+    "nome": "BOA VISTA",
+    "codigo_ibge": "1400100"
+  },
+  {
+    "nome": "BONFIM",
+    "codigo_ibge": "1400159"
+  },
+  {
+    "nome": "CANTA",
+    "codigo_ibge": "1400175"
+  },
+  {
+    "nome": "CARACARAI",
+    "codigo_ibge": "1400209"
+  },
+  {
+    "nome": "CAROEBE",
+    "codigo_ibge": "1400233"
+  },
+  {
+    "nome": "IRACEMA",
+    "codigo_ibge": "1400282"
+  },
+  {
+    "nome": "MUCAJAI",
+    "codigo_ibge": "1400308"
+  },
+  {
+    "nome": "NORMANDIA",
+    "codigo_ibge": "1400407"
+  },
+  {
+    "nome": "PACARAIMA",
+    "codigo_ibge": "1400456"
+  },
+  {
+    "nome": "RORAINOPOLIS",
+    "codigo_ibge": "1400472"
+  },
+  {
+    "nome": "SAO JOAO DA BALIZA",
+    "codigo_ibge": "1400506"
+  },
+  {
+    "nome": "SAO LUIZ",
+    "codigo_ibge": "1400605"
+  },
+  {
+    "nome": "UIRAMUTA",
+    "codigo_ibge": "1400704"
+  }
+]

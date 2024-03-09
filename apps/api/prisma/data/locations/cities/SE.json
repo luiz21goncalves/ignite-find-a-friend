@@ -1,0 +1,302 @@
+[
+  {
+    "nome": "AMPARO DE SAO FRANCISCO",
+    "codigo_ibge": "2800100"
+  },
+  {
+    "nome": "AQUIDABA",
+    "codigo_ibge": "2800209"
+  },
+  {
+    "nome": "ARACAJU",
+    "codigo_ibge": "2800308"
+  },
+  {
+    "nome": "ARAUA",
+    "codigo_ibge": "2800407"
+  },
+  {
+    "nome": "AREIA BRANCA",
+    "codigo_ibge": "2800506"
+  },
+  {
+    "nome": "BARRA DOS COQUEIROS",
+    "codigo_ibge": "2800605"
+  },
+  {
+    "nome": "BOQUIM",
+    "codigo_ibge": "2800670"
+  },
+  {
+    "nome": "BREJO GRANDE",
+    "codigo_ibge": "2800704"
+  },
+  {
+    "nome": "CAMPO DO BRITO",
+    "codigo_ibge": "2801009"
+  },
+  {
+    "nome": "CANHOBA",
+    "codigo_ibge": "2801108"
+  },
+  {
+    "nome": "CANINDE DE SAO FRANCISCO",
+    "codigo_ibge": "2801207"
+  },
+  {
+    "nome": "CAPELA",
+    "codigo_ibge": "2801306"
+  },
+  {
+    "nome": "CARIRA",
+    "codigo_ibge": "2801405"
+  },
+  {
+    "nome": "CARMOPOLIS",
+    "codigo_ibge": "2801504"
+  },
+  {
+    "nome": "CEDRO DE SAO JOAO",
+    "codigo_ibge": "2801603"
+  },
+  {
+    "nome": "CRISTINAPOLIS",
+    "codigo_ibge": "2801702"
+  },
+  {
+    "nome": "CUMBE",
+    "codigo_ibge": "2801900"
+  },
+  {
+    "nome": "DIVINA PASTORA",
+    "codigo_ibge": "2802007"
+  },
+  {
+    "nome": "ESTANCIA",
+    "codigo_ibge": "2802106"
+  },
+  {
+    "nome": "FEIRA NOVA",
+    "codigo_ibge": "2802205"
+  },
+  {
+    "nome": "FREI PAULO",
+    "codigo_ibge": "2802304"
+  },
+  {
+    "nome": "GARARU",
+    "codigo_ibge": "2802403"
+  },
+  {
+    "nome": "GENERAL MAYNARD",
+    "codigo_ibge": "2802502"
+  },
+  {
+    "nome": "GRACHO CARDOSO",
+    "codigo_ibge": "2802601"
+  },
+  {
+    "nome": "ILHA DAS FLORES",
+    "codigo_ibge": "2802700"
+  },
+  {
+    "nome": "INDIAROBA",
+    "codigo_ibge": "2802809"
+  },
+  {
+    "nome": "ITABAIANA",
+    "codigo_ibge": "2802908"
+  },
+  {
+    "nome": "ITABAIANINHA",
+    "codigo_ibge": "2803005"
+  },
+  {
+    "nome": "ITABI",
+    "codigo_ibge": "2803104"
+  },
+  {
+    "nome": "ITAPORANGA D AJUDA",
+    "codigo_ibge": "2803203"
+  },
+  {
+    "nome": "JAPARATUBA",
+    "codigo_ibge": "2803302"
+  },
+  {
+    "nome": "JAPOATA",
+    "codigo_ibge": "2803401"
+  },
+  {
+    "nome": "LAGARTO",
+    "codigo_ibge": "2803500"
+  },
+  {
+    "nome": "LARANJEIRAS",
+    "codigo_ibge": "2803609"
+  },
+  {
+    "nome": "MACAMBIRA",
+    "codigo_ibge": "2803708"
+  },
+  {
+    "nome": "MALHADA DOS BOIS",
+    "codigo_ibge": "2803807"
+  },
+  {
+    "nome": "MALHADOR",
+    "codigo_ibge": "2803906"
+  },
+  {
+    "nome": "MARUIM",
+    "codigo_ibge": "2804003"
+  },
+  {
+    "nome": "MOITA BONITA",
+    "codigo_ibge": "2804102"
+  },
+  {
+    "nome": "MONTE ALEGRE DE SERGIPE",
+    "codigo_ibge": "2804201"
+  },
+  {
+    "nome": "MURIBECA",
+    "codigo_ibge": "2804300"
+  },
+  {
+    "nome": "NEOPOLIS",
+    "codigo_ibge": "2804409"
+  },
+  {
+    "nome": "NOSSA SENHORA APARECIDA",
+    "codigo_ibge": "2804458"
+  },
+  {
+    "nome": "NOSSA SENHORA DA GLORIA",
+    "codigo_ibge": "2804508"
+  },
+  {
+    "nome": "NOSSA SENHORA DAS DORES",
+    "codigo_ibge": "2804607"
+  },
+  {
+    "nome": "NOSSA SENHORA DE LOURDES",
+    "codigo_ibge": "2804706"
+  },
+  {
+    "nome": "NOSSA SENHORA DO SOCORRO",
+    "codigo_ibge": "2804805"
+  },
+  {
+    "nome": "PACATUBA",
+    "codigo_ibge": "2804904"
+  },
+  {
+    "nome": "PEDRA MOLE",
+    "codigo_ibge": "2805000"
+  },
+  {
+    "nome": "PEDRINHAS",
+    "codigo_ibge": "2805109"
+  },
+  {
+    "nome": "PINHAO",
+    "codigo_ibge": "2805208"
+  },
+  {
+    "nome": "PIRAMBU",
+    "codigo_ibge": "2805307"
+  },
+  {
+    "nome": "POCO REDONDO",
+    "codigo_ibge": "2805406"
+  },
+  {
+    "nome": "POCO VERDE",
+    "codigo_ibge": "2805505"
+  },
+  {
+    "nome": "PORTO DA FOLHA",
+    "codigo_ibge": "2805604"
+  },
+  {
+    "nome": "PROPRIA",
+    "codigo_ibge": "2805703"
+  },
+  {
+    "nome": "RIACHAO DO DANTAS",
+    "codigo_ibge": "2805802"
+  },
+  {
+    "nome": "RIACHUELO",
+    "codigo_ibge": "2805901"
+  },
+  {
+    "nome": "RIBEIROPOLIS",
+    "codigo_ibge": "2806008"
+  },
+  {
+    "nome": "ROSARIO DO CATETE",
+    "codigo_ibge": "2806107"
+  },
+  {
+    "nome": "SALGADO",
+    "codigo_ibge": "2806206"
+  },
+  {
+    "nome": "SANTA LUZIA DO ITANHY",
+    "codigo_ibge": "2806305"
+  },
+  {
+    "nome": "SANTANA DO SAO FRANCISCO",
+    "codigo_ibge": "2806404"
+  },
+  {
+    "nome": "SANTA ROSA DE LIMA",
+    "codigo_ibge": "2806503"
+  },
+  {
+    "nome": "SANTO AMARO DAS BROTAS",
+    "codigo_ibge": "2806602"
+  },
+  {
+    "nome": "SAO CRISTOVAO",
+    "codigo_ibge": "2806701"
+  },
+  {
+    "nome": "SAO DOMINGOS",
+    "codigo_ibge": "2806800"
+  },
+  {
+    "nome": "SAO FRANCISCO",
+    "codigo_ibge": "2806909"
+  },
+  {
+    "nome": "SAO MIGUEL DO ALEIXO",
+    "codigo_ibge": "2807006"
+  },
+  {
+    "nome": "SIMAO DIAS",
+    "codigo_ibge": "2807105"
+  },
+  {
+    "nome": "SIRIRI",
+    "codigo_ibge": "2807204"
+  },
+  {
+    "nome": "TELHA",
+    "codigo_ibge": "2807303"
+  },
+  {
+    "nome": "TOBIAS BARRETO",
+    "codigo_ibge": "2807402"
+  },
+  {
+    "nome": "TOMAR DO GERU",
+    "codigo_ibge": "2807501"
+  },
+  {
+    "nome": "UMBAUBA",
+    "codigo_ibge": "2807600"
+  }
+]

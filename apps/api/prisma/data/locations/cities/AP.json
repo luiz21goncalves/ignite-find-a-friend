@@ -1,0 +1,66 @@
+[
+  {
+    "nome": "SERRA DO NAVIO",
+    "codigo_ibge": "1600055"
+  },
+  {
+    "nome": "AMAPA",
+    "codigo_ibge": "1600105"
+  },
+  {
+    "nome": "PEDRA BRANCA DO AMAPARI",
+    "codigo_ibge": "1600154"
+  },
+  {
+    "nome": "CALCOENE",
+    "codigo_ibge": "1600204"
+  },
+  {
+    "nome": "CUTIAS",
+    "codigo_ibge": "1600212"
+  },
+  {
+    "nome": "FERREIRA GOMES",
+    "codigo_ibge": "1600238"
+  },
+  {
+    "nome": "ITAUBAL",
+    "codigo_ibge": "1600253"
+  },
+  {
+    "nome": "LARANJAL DO JARI",
+    "codigo_ibge": "1600279"
+  },
+  {
+    "nome": "MACAPA",
+    "codigo_ibge": "1600303"
+  },
+  {
+    "nome": "MAZAGAO",
+    "codigo_ibge": "1600402"
+  },
+  {
+    "nome": "OIAPOQUE",
+    "codigo_ibge": "1600501"
+  },
+  {
+    "nome": "PORTO GRANDE",
+    "codigo_ibge": "1600535"
+  },
+  {
+    "nome": "PRACUUBA",
+    "codigo_ibge": "1600550"
+  },
+  {
+    "nome": "SANTANA",
+    "codigo_ibge": "1600600"
+  },
+  {
+    "nome": "TARTARUGALZINHO",
+    "codigo_ibge": "1600709"
+  },
+  {
+    "nome": "VITORIA DO JARI",
+    "codigo_ibge": "1600808"
+  }
+]

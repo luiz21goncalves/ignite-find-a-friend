@@ -1,0 +1,558 @@
+[
+  {
+    "nome": "ABREULANDIA",
+    "codigo_ibge": "1700251"
+  },
+  {
+    "nome": "AGUIARNOPOLIS",
+    "codigo_ibge": "1700301"
+  },
+  {
+    "nome": "ALIANCA DO TOCANTINS",
+    "codigo_ibge": "1700350"
+  },
+  {
+    "nome": "ALMAS",
+    "codigo_ibge": "1700400"
+  },
+  {
+    "nome": "ALVORADA",
+    "codigo_ibge": "1700707"
+  },
+  {
+    "nome": "ANANAS",
+    "codigo_ibge": "1701002"
+  },
+  {
+    "nome": "ANGICO",
+    "codigo_ibge": "1701051"
+  },
+  {
+    "nome": "APARECIDA DO RIO NEGRO",
+    "codigo_ibge": "1701101"
+  },
+  {
+    "nome": "ARAGOMINAS",
+    "codigo_ibge": "1701309"
+  },
+  {
+    "nome": "ARAGUACEMA",
+    "codigo_ibge": "1701903"
+  },
+  {
+    "nome": "ARAGUACU",
+    "codigo_ibge": "1702000"
+  },
+  {
+    "nome": "ARAGUAINA",
+    "codigo_ibge": "1702109"
+  },
+  {
+    "nome": "ARAGUANA",
+    "codigo_ibge": "1702158"
+  },
+  {
+    "nome": "ARAGUATINS",
+    "codigo_ibge": "1702208"
+  },
+  {
+    "nome": "ARAPOEMA",
+    "codigo_ibge": "1702307"
+  },
+  {
+    "nome": "ARRAIAS",
+    "codigo_ibge": "1702406"
+  },
+  {
+    "nome": "AUGUSTINOPOLIS",
+    "codigo_ibge": "1702554"
+  },
+  {
+    "nome": "AURORA DO TOCANTINS",
+    "codigo_ibge": "1702703"
+  },
+  {
+    "nome": "AXIXA DO TOCANTINS",
+    "codigo_ibge": "1702901"
+  },
+  {
+    "nome": "BABACULANDIA",
+    "codigo_ibge": "1703008"
+  },
+  {
+    "nome": "BANDEIRANTES DO TOCANTINS",
+    "codigo_ibge": "1703057"
+  },
+  {
+    "nome": "BARRA DO OURO",
+    "codigo_ibge": "1703073"
+  },
+  {
+    "nome": "BARROLANDIA",
+    "codigo_ibge": "1703107"
+  },
+  {
+    "nome": "BERNARDO SAYAO",
+    "codigo_ibge": "1703206"
+  },
+  {
+    "nome": "BOM JESUS DO TOCANTINS",
+    "codigo_ibge": "1703305"
+  },
+  {
+    "nome": "BRASILANDIA DO TOCANTINS",
+    "codigo_ibge": "1703602"
+  },
+  {
+    "nome": "BREJINHO DE NAZARE",
+    "codigo_ibge": "1703701"
+  },
+  {
+    "nome": "BURITI DO TOCANTINS",
+    "codigo_ibge": "1703800"
+  },
+  {
+    "nome": "CACHOEIRINHA",
+    "codigo_ibge": "1703826"
+  },
+  {
+    "nome": "CAMPOS LINDOS",
+    "codigo_ibge": "1703842"
+  },
+  {
+    "nome": "CARIRI DO TOCANTINS",
+    "codigo_ibge": "1703867"
+  },
+  {
+    "nome": "CARMOLANDIA",
+    "codigo_ibge": "1703883"
+  },
+  {
+    "nome": "CARRASCO BONITO",
+    "codigo_ibge": "1703891"
+  },
+  {
+    "nome": "CASEARA",
+    "codigo_ibge": "1703909"
+  },
+  {
+    "nome": "CENTENARIO",
+    "codigo_ibge": "1704105"
+  },
+  {
+    "nome": "CHAPADA DE AREIA",
+    "codigo_ibge": "1704600"
+  },
+  {
+    "nome": "CHAPADA DA NATIVIDADE",
+    "codigo_ibge": "1705102"
+  },
+  {
+    "nome": "COLINAS DO TOCANTINS",
+    "codigo_ibge": "1705508"
+  },
+  {
+    "nome": "COMBINADO",
+    "codigo_ibge": "1705557"
+  },
+  {
+    "nome": "CONCEICAO DO TOCANTINS",
+    "codigo_ibge": "1705607"
+  },
+  {
+    "nome": "COUTO MAGALHAES",
+    "codigo_ibge": "1706001"
+  },
+  {
+    "nome": "CRISTALANDIA",
+    "codigo_ibge": "1706100"
+  },
+  {
+    "nome": "CRIXAS DO TOCANTINS",
+    "codigo_ibge": "1706258"
+  },
+  {
+    "nome": "DARCINOPOLIS",
+    "codigo_ibge": "1706506"
+  },
+  {
+    "nome": "DIANOPOLIS",
+    "codigo_ibge": "1707009"
+  },
+  {
+    "nome": "DIVINOPOLIS DO TOCANTINS",
+    "codigo_ibge": "1707108"
+  },
+  {
+    "nome": "DOIS IRMAOS DO TOCANTINS",
+    "codigo_ibge": "1707207"
+  },
+  {
+    "nome": "DUERE",
+    "codigo_ibge": "1707306"
+  },
+  {
+    "nome": "ESPERANTINA",
+    "codigo_ibge": "1707405"
+  },
+  {
+    "nome": "FATIMA",
+    "codigo_ibge": "1707553"
+  },
+  {
+    "nome": "FIGUEIROPOLIS",
+    "codigo_ibge": "1707652"
+  },
+  {
+    "nome": "FILADELFIA",
+    "codigo_ibge": "1707702"
+  },
+  {
+    "nome": "FORMOSO DO ARAGUAIA",
+    "codigo_ibge": "1708205"
+  },
+  {
+    "nome": "FORTALEZA DO TABOCAO",
+    "codigo_ibge": "1708254"
+  },
+  {
+    "nome": "GOIANORTE",
+    "codigo_ibge": "1708304"
+  },
+  {
+    "nome": "GOIATINS",
+    "codigo_ibge": "1709005"
+  },
+  {
+    "nome": "GUARAI",
+    "codigo_ibge": "1709302"
+  },
+  {
+    "nome": "GURUPI",
+    "codigo_ibge": "1709500"
+  },
+  {
+    "nome": "IPUEIRAS",
+    "codigo_ibge": "1709807"
+  },
+  {
+    "nome": "ITACAJA",
+    "codigo_ibge": "1710508"
+  },
+  {
+    "nome": "ITAGUATINS",
+    "codigo_ibge": "1710706"
+  },
+  {
+    "nome": "ITAPIRATINS",
+    "codigo_ibge": "1710904"
+  },
+  {
+    "nome": "ITAPORA DO TOCANTINS",
+    "codigo_ibge": "1711100"
+  },
+  {
+    "nome": "JAU DO TOCANTINS",
+    "codigo_ibge": "1711506"
+  },
+  {
+    "nome": "JUARINA",
+    "codigo_ibge": "1711803"
+  },
+  {
+    "nome": "LAGOA DA CONFUSAO",
+    "codigo_ibge": "1711902"
+  },
+  {
+    "nome": "LAGOA DO TOCANTINS",
+    "codigo_ibge": "1711951"
+  },
+  {
+    "nome": "LAJEADO",
+    "codigo_ibge": "1712009"
+  },
+  {
+    "nome": "LAVANDEIRA",
+    "codigo_ibge": "1712157"
+  },
+  {
+    "nome": "LIZARDA",
+    "codigo_ibge": "1712405"
+  },
+  {
+    "nome": "LUZINOPOLIS",
+    "codigo_ibge": "1712454"
+  },
+  {
+    "nome": "MARIANOPOLIS DO TOCANTINS",
+    "codigo_ibge": "1712504"
+  },
+  {
+    "nome": "MATEIROS",
+    "codigo_ibge": "1712702"
+  },
+  {
+    "nome": "MAURILANDIA DO TOCANTINS",
+    "codigo_ibge": "1712801"
+  },
+  {
+    "nome": "MIRACEMA DO TOCANTINS",
+    "codigo_ibge": "1713205"
+  },
+  {
+    "nome": "MIRANORTE",
+    "codigo_ibge": "1713304"
+  },
+  {
+    "nome": "MONTE DO CARMO",
+    "codigo_ibge": "1713601"
+  },
+  {
+    "nome": "MONTE SANTO DO TOCANTINS",
+    "codigo_ibge": "1713700"
+  },
+  {
+    "nome": "PALMEIRAS DO TOCANTINS",
+    "codigo_ibge": "1713809"
+  },
+  {
+    "nome": "MURICILANDIA",
+    "codigo_ibge": "1713957"
+  },
+  {
+    "nome": "NATIVIDADE",
+    "codigo_ibge": "1714203"
+  },
+  {
+    "nome": "NAZARE",
+    "codigo_ibge": "1714302"
+  },
+  {
+    "nome": "NOVA OLINDA",
+    "codigo_ibge": "1714880"
+  },
+  {
+    "nome": "NOVA ROSALANDIA",
+    "codigo_ibge": "1715002"
+  },
+  {
+    "nome": "NOVO ACORDO",
+    "codigo_ibge": "1715101"
+  },
+  {
+    "nome": "NOVO ALEGRE",
+    "codigo_ibge": "1715150"
+  },
+  {
+    "nome": "NOVO JARDIM",
+    "codigo_ibge": "1715259"
+  },
+  {
+    "nome": "OLIVEIRA DE FATIMA",
+    "codigo_ibge": "1715507"
+  },
+  {
+    "nome": "PALMEIRANTE",
+    "codigo_ibge": "1715705"
+  },
+  {
+    "nome": "PALMEIROPOLIS",
+    "codigo_ibge": "1715754"
+  },
+  {
+    "nome": "PARAISO DO TOCANTINS",
+    "codigo_ibge": "1716109"
+  },
+  {
+    "nome": "PARANA",
+    "codigo_ibge": "1716208"
+  },
+  {
+    "nome": "PAU D ARCO",
+    "codigo_ibge": "1716307"
+  },
+  {
+    "nome": "PEDRO AFONSO",
+    "codigo_ibge": "1716505"
+  },
+  {
+    "nome": "PEIXE",
+    "codigo_ibge": "1716604"
+  },
+  {
+    "nome": "PEQUIZEIRO",
+    "codigo_ibge": "1716653"
+  },
+  {
+    "nome": "COLMEIA",
+    "codigo_ibge": "1716703"
+  },
+  {
+    "nome": "PINDORAMA DO TOCANTINS",
+    "codigo_ibge": "1717008"
+  },
+  {
+    "nome": "PIRAQUE",
+    "codigo_ibge": "1717206"
+  },
+  {
+    "nome": "PIUM",
+    "codigo_ibge": "1717503"
+  },
+  {
+    "nome": "PONTE ALTA DO BOM JESUS",
+    "codigo_ibge": "1717800"
+  },
+  {
+    "nome": "PONTE ALTA DO TOCANTINS",
+    "codigo_ibge": "1717909"
+  },
+  {
+    "nome": "PORTO ALEGRE DO TOCANTINS",
+    "codigo_ibge": "1718006"
+  },
+  {
+    "nome": "PORTO NACIONAL",
+    "codigo_ibge": "1718204"
+  },
+  {
+    "nome": "PRAIA NORTE",
+    "codigo_ibge": "1718303"
+  },
+  {
+    "nome": "PRESIDENTE KENNEDY",
+    "codigo_ibge": "1718402"
+  },
+  {
+    "nome": "PUGMIL",
+    "codigo_ibge": "1718451"
+  },
+  {
+    "nome": "RECURSOLANDIA",
+    "codigo_ibge": "1718501"
+  },
+  {
+    "nome": "RIACHINHO",
+    "codigo_ibge": "1718550"
+  },
+  {
+    "nome": "RIO DA CONCEICAO",
+    "codigo_ibge": "1718659"
+  },
+  {
+    "nome": "RIO DOS BOIS",
+    "codigo_ibge": "1718709"
+  },
+  {
+    "nome": "RIO SONO",
+    "codigo_ibge": "1718758"
+  },
+  {
+    "nome": "SAMPAIO",
+    "codigo_ibge": "1718808"
+  },
+  {
+    "nome": "SANDOLANDIA",
+    "codigo_ibge": "1718840"
+  },
+  {
+    "nome": "SANTA FE DO ARAGUAIA",
+    "codigo_ibge": "1718865"
+  },
+  {
+    "nome": "SANTA MARIA DO TOCANTINS",
+    "codigo_ibge": "1718881"
+  },
+  {
+    "nome": "SANTA RITA DO TOCANTINS",
+    "codigo_ibge": "1718899"
+  },
+  {
+    "nome": "SANTA ROSA DO TOCANTINS",
+    "codigo_ibge": "1718907"
+  },
+  {
+    "nome": "SANTA TEREZA DO TOCANTINS",
+    "codigo_ibge": "1719004"
+  },
+  {
+    "nome": "SANTA TEREZINHA DO TOCANTINS",
+    "codigo_ibge": "1720002"
+  },
+  {
+    "nome": "SAO BENTO DO TOCANTINS",
+    "codigo_ibge": "1720101"
+  },
+  {
+    "nome": "SAO FELIX DO TOCANTINS",
+    "codigo_ibge": "1720150"
+  },
+  {
+    "nome": "SAO MIGUEL DO TOCANTINS",
+    "codigo_ibge": "1720200"
+  },
+  {
+    "nome": "SAO SALVADOR DO TOCANTINS",
+    "codigo_ibge": "1720259"
+  },
+  {
+    "nome": "SAO SEBASTIAO DO TOCANTINS",
+    "codigo_ibge": "1720309"
+  },
+  {
+    "nome": "SAO VALERIO",
+    "codigo_ibge": "1720499"
+  },
+  {
+    "nome": "SILVANOPOLIS",
+    "codigo_ibge": "1720655"
+  },
+  {
+    "nome": "SITIO NOVO DO TOCANTINS",
+    "codigo_ibge": "1720804"
+  },
+  {
+    "nome": "SUCUPIRA",
+    "codigo_ibge": "1720853"
+  },
+  {
+    "nome": "TAGUATINGA",
+    "codigo_ibge": "1720903"
+  },
+  {
+    "nome": "TAIPAS DO TOCANTINS",
+    "codigo_ibge": "1720937"
+  },
+  {
+    "nome": "TALISMA",
+    "codigo_ibge": "1720978"
+  },
+  {
+    "nome": "PALMAS",
+    "codigo_ibge": "1721000"
+  },
+  {
+    "nome": "TOCANTINIA",
+    "codigo_ibge": "1721109"
+  },
+  {
+    "nome": "TOCANTINOPOLIS",
+    "codigo_ibge": "1721208"
+  },
+  {
+    "nome": "TUPIRAMA",
+    "codigo_ibge": "1721257"
+  },
+  {
+    "nome": "TUPIRATINS",
+    "codigo_ibge": "1721307"
+  },
+  {
+    "nome": "WANDERLANDIA",
+    "codigo_ibge": "1722081"
+  },
+  {
+    "nome": "XAMBIOA",
+    "codigo_ibge": "1722107"
+  }
+]

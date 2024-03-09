@@ -1,0 +1,250 @@
+[
+  {
+    "nome": "ALVARAES",
+    "codigo_ibge": "1300029"
+  },
+  {
+    "nome": "AMATURA",
+    "codigo_ibge": "1300060"
+  },
+  {
+    "nome": "ANAMA",
+    "codigo_ibge": "1300086"
+  },
+  {
+    "nome": "ANORI",
+    "codigo_ibge": "1300102"
+  },
+  {
+    "nome": "APUI",
+    "codigo_ibge": "1300144"
+  },
+  {
+    "nome": "ATALAIA DO NORTE",
+    "codigo_ibge": "1300201"
+  },
+  {
+    "nome": "AUTAZES",
+    "codigo_ibge": "1300300"
+  },
+  {
+    "nome": "BARCELOS",
+    "codigo_ibge": "1300409"
+  },
+  {
+    "nome": "BARREIRINHA",
+    "codigo_ibge": "1300508"
+  },
+  {
+    "nome": "BENJAMIN CONSTANT",
+    "codigo_ibge": "1300607"
+  },
+  {
+    "nome": "BERURI",
+    "codigo_ibge": "1300631"
+  },
+  {
+    "nome": "BOA VISTA DO RAMOS",
+    "codigo_ibge": "1300680"
+  },
+  {
+    "nome": "BOCA DO ACRE",
+    "codigo_ibge": "1300706"
+  },
+  {
+    "nome": "BORBA",
+    "codigo_ibge": "1300805"
+  },
+  {
+    "nome": "CAAPIRANGA",
+    "codigo_ibge": "1300839"
+  },
+  {
+    "nome": "CANUTAMA",
+    "codigo_ibge": "1300904"
+  },
+  {
+    "nome": "CARAUARI",
+    "codigo_ibge": "1301001"
+  },
+  {
+    "nome": "CAREIRO",
+    "codigo_ibge": "1301100"
+  },
+  {
+    "nome": "CAREIRO DA VARZEA",
+    "codigo_ibge": "1301159"
+  },
+  {
+    "nome": "COARI",
+    "codigo_ibge": "1301209"
+  },
+  {
+    "nome": "CODAJAS",
+    "codigo_ibge": "1301308"
+  },
+  {
+    "nome": "EIRUNEPE",
+    "codigo_ibge": "1301407"
+  },
+  {
+    "nome": "ENVIRA",
+    "codigo_ibge": "1301506"
+  },
+  {
+    "nome": "FONTE BOA",
+    "codigo_ibge": "1301605"
+  },
+  {
+    "nome": "GUAJARA",
+    "codigo_ibge": "1301654"
+  },
+  {
+    "nome": "HUMAITA",
+    "codigo_ibge": "1301704"
+  },
+  {
+    "nome": "IPIXUNA",
+    "codigo_ibge": "1301803"
+  },
+  {
+    "nome": "IRANDUBA",
+    "codigo_ibge": "1301852"
+  },
+  {
+    "nome": "ITACOATIARA",
+    "codigo_ibge": "1301902"
+  },
+  {
+    "nome": "ITAMARATI",
+    "codigo_ibge": "1301951"
+  },
+  {
+    "nome": "ITAPIRANGA",
+    "codigo_ibge": "1302009"
+  },
+  {
+    "nome": "JAPURA",
+    "codigo_ibge": "1302108"
+  },
+  {
+    "nome": "JURUA",
+    "codigo_ibge": "1302207"
+  },
+  {
+    "nome": "JUTAI",
+    "codigo_ibge": "1302306"
+  },
+  {
+    "nome": "LABREA",
+    "codigo_ibge": "1302405"
+  },
+  {
+    "nome": "MANACAPURU",
+    "codigo_ibge": "1302504"
+  },
+  {
+    "nome": "MANAQUIRI",
+    "codigo_ibge": "1302553"
+  },
+  {
+    "nome": "MANAUS",
+    "codigo_ibge": "1302603"
+  },
+  {
+    "nome": "MANICORE",
+    "codigo_ibge": "1302702"
+  },
+  {
+    "nome": "MARAA",
+    "codigo_ibge": "1302801"
+  },
+  {
+    "nome": "MAUES",
+    "codigo_ibge": "1302900"
+  },
+  {
+    "nome": "NHAMUNDA",
+    "codigo_ibge": "1303007"
+  },
+  {
+    "nome": "NOVA OLINDA DO NORTE",
+    "codigo_ibge": "1303106"
+  },
+  {
+    "nome": "NOVO AIRAO",
+    "codigo_ibge": "1303205"
+  },
+  {
+    "nome": "NOVO ARIPUANA",
+    "codigo_ibge": "1303304"
+  },
+  {
+    "nome": "PARINTINS",
+    "codigo_ibge": "1303403"
+  },
+  {
+    "nome": "PAUINI",
+    "codigo_ibge": "1303502"
+  },
+  {
+    "nome": "PRESIDENTE FIGUEIREDO",
+    "codigo_ibge": "1303536"
+  },
+  {
+    "nome": "RIO PRETO DA EVA",
+    "codigo_ibge": "1303569"
+  },
+  {
+    "nome": "SANTA ISABEL DO RIO NEGRO",
+    "codigo_ibge": "1303601"
+  },
+  {
+    "nome": "SANTO ANTONIO DO ICA",
+    "codigo_ibge": "1303700"
+  },
+  {
+    "nome": "SAO GABRIEL DA CACHOEIRA",
+    "codigo_ibge": "1303809"
+  },
+  {
+    "nome": "SAO PAULO DE OLIVENCA",
+    "codigo_ibge": "1303908"
+  },
+  {
+    "nome": "SAO SEBASTIAO DO UATUMA",
+    "codigo_ibge": "1303957"
+  },
+  {
+    "nome": "SILVES",
+    "codigo_ibge": "1304005"
+  },
+  {
+    "nome": "TABATINGA",
+    "codigo_ibge": "1304062"
+  },
+  {
+    "nome": "TAPAUA",
+    "codigo_ibge": "1304104"
+  },
+  {
+    "nome": "TEFE",
+    "codigo_ibge": "1304203"
+  },
+  {
+    "nome": "TONANTINS",
+    "codigo_ibge": "1304237"
+  },
+  {
+    "nome": "UARINI",
+    "codigo_ibge": "1304260"
+  },
+  {
+    "nome": "URUCARA",
+    "codigo_ibge": "1304302"
+  },
+  {
+    "nome": "URUCURITUBA",
+    "codigo_ibge": "1304401"
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "nome": "AFONSO CLAUDIO",
+    "codigo_ibge": "3200102"
+  },
+  {
+    "nome": "AGUIA BRANCA",
+    "codigo_ibge": "3200136"
+  },
+  {
+    "nome": "AGUA DOCE DO NORTE",
+    "codigo_ibge": "3200169"
+  },
+  {
+    "nome": "ALEGRE",
+    "codigo_ibge": "3200201"
+  },
+  {
+    "nome": "ALFREDO CHAVES",
+    "codigo_ibge": "3200300"
+  },
+  {
+    "nome": "ALTO RIO NOVO",
+    "codigo_ibge": "3200359"
+  },
+  {
+    "nome": "ANCHIETA",
+    "codigo_ibge": "3200409"
+  },
+  {
+    "nome": "APIACA",
+    "codigo_ibge": "3200508"
+  },
+  {
+    "nome": "ARACRUZ",
+    "codigo_ibge": "3200607"
+  },
+  {
+    "nome": "ATILIO VIVACQUA",
+    "codigo_ibge": "3200706"
+  },
+  {
+    "nome": "BAIXO GUANDU",
+    "codigo_ibge": "3200805"
+  },
+  {
+    "nome": "BARRA DE SAO FRANCISCO",
+    "codigo_ibge": "3200904"
+  },
+  {
+    "nome": "BOA ESPERANCA",
+    "codigo_ibge": "3201001"
+  },
+  {
+    "nome": "BOM JESUS DO NORTE",
+    "codigo_ibge": "3201100"
+  },
+  {
+    "nome": "BREJETUBA",
+    "codigo_ibge": "3201159"
+  },
+  {
+    "nome": "CACHOEIRO DE ITAPEMIRIM",
+    "codigo_ibge": "3201209"
+  },
+  {
+    "nome": "CARIACICA",
+    "codigo_ibge": "3201308"
+  },
+  {
+    "nome": "CASTELO",
+    "codigo_ibge": "3201407"
+  },
+  {
+    "nome": "COLATINA",
+    "codigo_ibge": "3201506"
+  },
+  {
+    "nome": "CONCEICAO DA BARRA",
+    "codigo_ibge": "3201605"
+  },
+  {
+    "nome": "CONCEICAO DO CASTELO",
+    "codigo_ibge": "3201704"
+  },
+  {
+    "nome": "DIVINO DE SAO LOURENCO",
+    "codigo_ibge": "3201803"
+  },
+  {
+    "nome": "DOMINGOS MARTINS",
+    "codigo_ibge": "3201902"
+  },
+  {
+    "nome": "DORES DO RIO PRETO",
+    "codigo_ibge": "3202009"
+  },
+  {
+    "nome": "ECOPORANGA",
+    "codigo_ibge": "3202108"
+  },
+  {
+    "nome": "FUNDAO",
+    "codigo_ibge": "3202207"
+  },
+  {
+    "nome": "GOVERNADOR LINDENBERG",
+    "codigo_ibge": "3202256"
+  },
+  {
+    "nome": "GUACUI",
+    "codigo_ibge": "3202306"
+  },
+  {
+    "nome": "GUARAPARI",
+    "codigo_ibge": "3202405"
+  },
+  {
+    "nome": "IBATIBA",
+    "codigo_ibge": "3202454"
+  },
+  {
+    "nome": "IBIRACU",
+    "codigo_ibge": "3202504"
+  },
+  {
+    "nome": "IBITIRAMA",
+    "codigo_ibge": "3202553"
+  },
+  {
+    "nome": "ICONHA",
+    "codigo_ibge": "3202603"
+  },
+  {
+    "nome": "IRUPI",
+    "codigo_ibge": "3202652"
+  },
+  {
+    "nome": "ITAGUACU",
+    "codigo_ibge": "3202702"
+  },
+  {
+    "nome": "ITAPEMIRIM",
+    "codigo_ibge": "3202801"
+  },
+  {
+    "nome": "ITARANA",
+    "codigo_ibge": "3202900"
+  },
+  {
+    "nome": "IUNA",
+    "codigo_ibge": "3203007"
+  },
+  {
+    "nome": "JAGUARE",
+    "codigo_ibge": "3203056"
+  },
+  {
+    "nome": "JERONIMO MONTEIRO",
+    "codigo_ibge": "3203106"
+  },
+  {
+    "nome": "JOAO NEIVA",
+    "codigo_ibge": "3203130"
+  },
+  {
+    "nome": "LARANJA DA TERRA",
+    "codigo_ibge": "3203163"
+  },
+  {
+    "nome": "LINHARES",
+    "codigo_ibge": "3203205"
+  },
+  {
+    "nome": "MANTENOPOLIS",
+    "codigo_ibge": "3203304"
+  },
+  {
+    "nome": "MARATAIZES",
+    "codigo_ibge": "3203320"
+  },
+  {
+    "nome": "MARECHAL FLORIANO",
+    "codigo_ibge": "3203346"
+  },
+  {
+    "nome": "MARILANDIA",
+    "codigo_ibge": "3203353"
+  },
+  {
+    "nome": "MIMOSO DO SUL",
+    "codigo_ibge": "3203403"
+  },
+  {
+    "nome": "MONTANHA",
+    "codigo_ibge": "3203502"
+  },
+  {
+    "nome": "MUCURICI",
+    "codigo_ibge": "3203601"
+  },
+  {
+    "nome": "MUNIZ FREIRE",
+    "codigo_ibge": "3203700"
+  },
+  {
+    "nome": "MUQUI",
+    "codigo_ibge": "3203809"
+  },
+  {
+    "nome": "NOVA VENECIA",
+    "codigo_ibge": "3203908"
+  },
+  {
+    "nome": "PANCAS",
+    "codigo_ibge": "3204005"
+  },
+  {
+    "nome": "PEDRO CANARIO",
+    "codigo_ibge": "3204054"
+  },
+  {
+    "nome": "PINHEIROS",
+    "codigo_ibge": "3204104"
+  },
+  {
+    "nome": "PIUMA",
+    "codigo_ibge": "3204203"
+  },
+  {
+    "nome": "PONTO BELO",
+    "codigo_ibge": "3204252"
+  },
+  {
+    "nome": "PRESIDENTE KENNEDY",
+    "codigo_ibge": "3204302"
+  },
+  {
+    "nome": "RIO BANANAL",
+    "codigo_ibge": "3204351"
+  },
+  {
+    "nome": "RIO NOVO DO SUL",
+    "codigo_ibge": "3204401"
+  },
+  {
+    "nome": "SANTA LEOPOLDINA",
+    "codigo_ibge": "3204500"
+  },
+  {
+    "nome": "SANTA MARIA DE JETIBA",
+    "codigo_ibge": "3204559"
+  },
+  {
+    "nome": "SANTA TERESA",
+    "codigo_ibge": "3204609"
+  },
+  {
+    "nome": "SAO DOMINGOS DO NORTE",
+    "codigo_ibge": "3204658"
+  },
+  {
+    "nome": "SAO GABRIEL DA PALHA",
+    "codigo_ibge": "3204708"
+  },
+  {
+    "nome": "SAO JOSE DO CALCADO",
+    "codigo_ibge": "3204807"
+  },
+  {
+    "nome": "SAO MATEUS",
+    "codigo_ibge": "3204906"
+  },
+  {
+    "nome": "SAO ROQUE DO CANAA",
+    "codigo_ibge": "3204955"
+  },
+  {
+    "nome": "SERRA",
+    "codigo_ibge": "3205002"
+  },
+  {
+    "nome": "SOORETAMA",
+    "codigo_ibge": "3205010"
+  },
+  {
+    "nome": "VARGEM ALTA",
+    "codigo_ibge": "3205036"
+  },
+  {
+    "nome": "VENDA NOVA DO IMIGRANTE",
+    "codigo_ibge": "3205069"
+  },
+  {
+    "nome": "VIANA",
+    "codigo_ibge": "3205101"
+  },
+  {
+    "nome": "VILA PAVAO",
+    "codigo_ibge": "3205150"
+  },
+  {
+    "nome": "VILA VALERIO",
+    "codigo_ibge": "3205176"
+  },
+  {
+    "nome": "VILA VELHA",
+    "codigo_ibge": "3205200"
+  },
+  {
+    "nome": "VITORIA",
+    "codigo_ibge": "3205309"
+  }
+]

@@ -1,0 +1,986 @@
+[
+  {
+    "nome": "ABADIA DE GOIAS",
+    "codigo_ibge": "5200050"
+  },
+  {
+    "nome": "ABADIANIA",
+    "codigo_ibge": "5200100"
+  },
+  {
+    "nome": "ACREUNA",
+    "codigo_ibge": "5200134"
+  },
+  {
+    "nome": "ADELANDIA",
+    "codigo_ibge": "5200159"
+  },
+  {
+    "nome": "AGUA FRIA DE GOIAS",
+    "codigo_ibge": "5200175"
+  },
+  {
+    "nome": "AGUA LIMPA",
+    "codigo_ibge": "5200209"
+  },
+  {
+    "nome": "AGUAS LINDAS DE GOIAS",
+    "codigo_ibge": "5200258"
+  },
+  {
+    "nome": "ALEXANIA",
+    "codigo_ibge": "5200308"
+  },
+  {
+    "nome": "ALOANDIA",
+    "codigo_ibge": "5200506"
+  },
+  {
+    "nome": "ALTO HORIZONTE",
+    "codigo_ibge": "5200555"
+  },
+  {
+    "nome": "ALTO PARAISO DE GOIAS",
+    "codigo_ibge": "5200605"
+  },
+  {
+    "nome": "ALVORADA DO NORTE",
+    "codigo_ibge": "5200803"
+  },
+  {
+    "nome": "AMARALINA",
+    "codigo_ibge": "5200829"
+  },
+  {
+    "nome": "AMERICANO DO BRASIL",
+    "codigo_ibge": "5200852"
+  },
+  {
+    "nome": "AMORINOPOLIS",
+    "codigo_ibge": "5200902"
+  },
+  {
+    "nome": "ANAPOLIS",
+    "codigo_ibge": "5201108"
+  },
+  {
+    "nome": "ANHANGUERA",
+    "codigo_ibge": "5201207"
+  },
+  {
+    "nome": "ANICUNS",
+    "codigo_ibge": "5201306"
+  },
+  {
+    "nome": "APARECIDA DE GOIANIA",
+    "codigo_ibge": "5201405"
+  },
+  {
+    "nome": "APARECIDA DO RIO DOCE",
+    "codigo_ibge": "5201454"
+  },
+  {
+    "nome": "APORE",
+    "codigo_ibge": "5201504"
+  },
+  {
+    "nome": "ARACU",
+    "codigo_ibge": "5201603"
+  },
+  {
+    "nome": "ARAGARCAS",
+    "codigo_ibge": "5201702"
+  },
+  {
+    "nome": "ARAGOIANIA",
+    "codigo_ibge": "5201801"
+  },
+  {
+    "nome": "ARAGUAPAZ",
+    "codigo_ibge": "5202155"
+  },
+  {
+    "nome": "ARENOPOLIS",
+    "codigo_ibge": "5202353"
+  },
+  {
+    "nome": "ARUANA",
+    "codigo_ibge": "5202502"
+  },
+  {
+    "nome": "AURILANDIA",
+    "codigo_ibge": "5202601"
+  },
+  {
+    "nome": "AVELINOPOLIS",
+    "codigo_ibge": "5202809"
+  },
+  {
+    "nome": "BALIZA",
+    "codigo_ibge": "5203104"
+  },
+  {
+    "nome": "BARRO ALTO",
+    "codigo_ibge": "5203203"
+  },
+  {
+    "nome": "BELA VISTA DE GOIAS",
+    "codigo_ibge": "5203302"
+  },
+  {
+    "nome": "BOM JARDIM DE GOIAS",
+    "codigo_ibge": "5203401"
+  },
+  {
+    "nome": "BOM JESUS DE GOIAS",
+    "codigo_ibge": "5203500"
+  },
+  {
+    "nome": "BONFINOPOLIS",
+    "codigo_ibge": "5203559"
+  },
+  {
+    "nome": "BONOPOLIS",
+    "codigo_ibge": "5203575"
+  },
+  {
+    "nome": "BRAZABRANTES",
+    "codigo_ibge": "5203609"
+  },
+  {
+    "nome": "BRITANIA",
+    "codigo_ibge": "5203807"
+  },
+  {
+    "nome": "BURITI ALEGRE",
+    "codigo_ibge": "5203906"
+  },
+  {
+    "nome": "BURITI DE GOIAS",
+    "codigo_ibge": "5203939"
+  },
+  {
+    "nome": "BURITINOPOLIS",
+    "codigo_ibge": "5203962"
+  },
+  {
+    "nome": "CABECEIRAS",
+    "codigo_ibge": "5204003"
+  },
+  {
+    "nome": "CACHOEIRA ALTA",
+    "codigo_ibge": "5204102"
+  },
+  {
+    "nome": "CACHOEIRA DE GOIAS",
+    "codigo_ibge": "5204201"
+  },
+  {
+    "nome": "CACHOEIRA DOURADA",
+    "codigo_ibge": "5204250"
+  },
+  {
+    "nome": "CACU",
+    "codigo_ibge": "5204300"
+  },
+  {
+    "nome": "CAIAPONIA",
+    "codigo_ibge": "5204409"
+  },
+  {
+    "nome": "CALDAS NOVAS",
+    "codigo_ibge": "5204508"
+  },
+  {
+    "nome": "CALDAZINHA",
+    "codigo_ibge": "5204557"
+  },
+  {
+    "nome": "CAMPESTRE DE GOIAS",
+    "codigo_ibge": "5204607"
+  },
+  {
+    "nome": "CAMPINACU",
+    "codigo_ibge": "5204656"
+  },
+  {
+    "nome": "CAMPINORTE",
+    "codigo_ibge": "5204706"
+  },
+  {
+    "nome": "CAMPO ALEGRE DE GOIAS",
+    "codigo_ibge": "5204805"
+  },
+  {
+    "nome": "CAMPO LIMPO DE GOIAS",
+    "codigo_ibge": "5204854"
+  },
+  {
+    "nome": "CAMPOS BELOS",
+    "codigo_ibge": "5204904"
+  },
+  {
+    "nome": "CAMPOS VERDES",
+    "codigo_ibge": "5204953"
+  },
+  {
+    "nome": "CARMO DO RIO VERDE",
+    "codigo_ibge": "5205000"
+  },
+  {
+    "nome": "CASTELANDIA",
+    "codigo_ibge": "5205059"
+  },
+  {
+    "nome": "CATALAO",
+    "codigo_ibge": "5205109"
+  },
+  {
+    "nome": "CATURAI",
+    "codigo_ibge": "5205208"
+  },
+  {
+    "nome": "CAVALCANTE",
+    "codigo_ibge": "5205307"
+  },
+  {
+    "nome": "CERES",
+    "codigo_ibge": "5205406"
+  },
+  {
+    "nome": "CEZARINA",
+    "codigo_ibge": "5205455"
+  },
+  {
+    "nome": "CHAPADAO DO CEU",
+    "codigo_ibge": "5205471"
+  },
+  {
+    "nome": "CIDADE OCIDENTAL",
+    "codigo_ibge": "5205497"
+  },
+  {
+    "nome": "COCALZINHO DE GOIAS",
+    "codigo_ibge": "5205513"
+  },
+  {
+    "nome": "COLINAS DO SUL",
+    "codigo_ibge": "5205521"
+  },
+  {
+    "nome": "CORREGO DO OURO",
+    "codigo_ibge": "5205703"
+  },
+  {
+    "nome": "CORUMBA DE GOIAS",
+    "codigo_ibge": "5205802"
+  },
+  {
+    "nome": "CORUMBAIBA",
+    "codigo_ibge": "5205901"
+  },
+  {
+    "nome": "CRISTALINA",
+    "codigo_ibge": "5206206"
+  },
+  {
+    "nome": "CRISTIANOPOLIS",
+    "codigo_ibge": "5206305"
+  },
+  {
+    "nome": "CRIXAS",
+    "codigo_ibge": "5206404"
+  },
+  {
+    "nome": "CROMINIA",
+    "codigo_ibge": "5206503"
+  },
+  {
+    "nome": "CUMARI",
+    "codigo_ibge": "5206602"
+  },
+  {
+    "nome": "DAMIANOPOLIS",
+    "codigo_ibge": "5206701"
+  },
+  {
+    "nome": "DAMOLANDIA",
+    "codigo_ibge": "5206800"
+  },
+  {
+    "nome": "DAVINOPOLIS",
+    "codigo_ibge": "5206909"
+  },
+  {
+    "nome": "DIORAMA",
+    "codigo_ibge": "5207105"
+  },
+  {
+    "nome": "DOVERLANDIA",
+    "codigo_ibge": "5207253"
+  },
+  {
+    "nome": "EDEALINA",
+    "codigo_ibge": "5207352"
+  },
+  {
+    "nome": "EDEIA",
+    "codigo_ibge": "5207402"
+  },
+  {
+    "nome": "ESTRELA DO NORTE",
+    "codigo_ibge": "5207501"
+  },
+  {
+    "nome": "FAINA",
+    "codigo_ibge": "5207535"
+  },
+  {
+    "nome": "FAZENDA NOVA",
+    "codigo_ibge": "5207600"
+  },
+  {
+    "nome": "FIRMINOPOLIS",
+    "codigo_ibge": "5207808"
+  },
+  {
+    "nome": "FLORES DE GOIAS",
+    "codigo_ibge": "5207907"
+  },
+  {
+    "nome": "FORMOSA",
+    "codigo_ibge": "5208004"
+  },
+  {
+    "nome": "FORMOSO",
+    "codigo_ibge": "5208103"
+  },
+  {
+    "nome": "GAMELEIRA DE GOIAS",
+    "codigo_ibge": "5208152"
+  },
+  {
+    "nome": "DIVINOPOLIS DE GOIAS",
+    "codigo_ibge": "5208301"
+  },
+  {
+    "nome": "GOIANAPOLIS",
+    "codigo_ibge": "5208400"
+  },
+  {
+    "nome": "GOIANDIRA",
+    "codigo_ibge": "5208509"
+  },
+  {
+    "nome": "GOIANESIA",
+    "codigo_ibge": "5208608"
+  },
+  {
+    "nome": "GOIANIA",
+    "codigo_ibge": "5208707"
+  },
+  {
+    "nome": "GOIANIRA",
+    "codigo_ibge": "5208806"
+  },
+  {
+    "nome": "GOIAS",
+    "codigo_ibge": "5208905"
+  },
+  {
+    "nome": "GOIATUBA",
+    "codigo_ibge": "5209101"
+  },
+  {
+    "nome": "GOUVELANDIA",
+    "codigo_ibge": "5209150"
+  },
+  {
+    "nome": "GUAPO",
+    "codigo_ibge": "5209200"
+  },
+  {
+    "nome": "GUARAITA",
+    "codigo_ibge": "5209291"
+  },
+  {
+    "nome": "GUARANI DE GOIAS",
+    "codigo_ibge": "5209408"
+  },
+  {
+    "nome": "GUARINOS",
+    "codigo_ibge": "5209457"
+  },
+  {
+    "nome": "HEITORAI",
+    "codigo_ibge": "5209606"
+  },
+  {
+    "nome": "HIDROLANDIA",
+    "codigo_ibge": "5209705"
+  },
+  {
+    "nome": "HIDROLINA",
+    "codigo_ibge": "5209804"
+  },
+  {
+    "nome": "IACIARA",
+    "codigo_ibge": "5209903"
+  },
+  {
+    "nome": "INACIOLANDIA",
+    "codigo_ibge": "5209937"
+  },
+  {
+    "nome": "INDIARA",
+    "codigo_ibge": "5209952"
+  },
+  {
+    "nome": "INHUMAS",
+    "codigo_ibge": "5210000"
+  },
+  {
+    "nome": "IPAMERI",
+    "codigo_ibge": "5210109"
+  },
+  {
+    "nome": "IPIRANGA DE GOIAS",
+    "codigo_ibge": "5210158"
+  },
+  {
+    "nome": "IPORA",
+    "codigo_ibge": "5210208"
+  },
+  {
+    "nome": "ISRAELANDIA",
+    "codigo_ibge": "5210307"
+  },
+  {
+    "nome": "ITABERAI",
+    "codigo_ibge": "5210406"
+  },
+  {
+    "nome": "ITAGUARI",
+    "codigo_ibge": "5210562"
+  },
+  {
+    "nome": "ITAGUARU",
+    "codigo_ibge": "5210604"
+  },
+  {
+    "nome": "ITAJA",
+    "codigo_ibge": "5210802"
+  },
+  {
+    "nome": "ITAPACI",
+    "codigo_ibge": "5210901"
+  },
+  {
+    "nome": "ITAPIRAPUA",
+    "codigo_ibge": "5211008"
+  },
+  {
+    "nome": "ITAPURANGA",
+    "codigo_ibge": "5211206"
+  },
+  {
+    "nome": "ITARUMA",
+    "codigo_ibge": "5211305"
+  },
+  {
+    "nome": "ITAUCU",
+    "codigo_ibge": "5211404"
+  },
+  {
+    "nome": "ITUMBIARA",
+    "codigo_ibge": "5211503"
+  },
+  {
+    "nome": "IVOLANDIA",
+    "codigo_ibge": "5211602"
+  },
+  {
+    "nome": "JANDAIA",
+    "codigo_ibge": "5211701"
+  },
+  {
+    "nome": "JARAGUA",
+    "codigo_ibge": "5211800"
+  },
+  {
+    "nome": "JATAI",
+    "codigo_ibge": "5211909"
+  },
+  {
+    "nome": "JAUPACI",
+    "codigo_ibge": "5212006"
+  },
+  {
+    "nome": "JESUPOLIS",
+    "codigo_ibge": "5212055"
+  },
+  {
+    "nome": "JOVIANIA",
+    "codigo_ibge": "5212105"
+  },
+  {
+    "nome": "JUSSARA",
+    "codigo_ibge": "5212204"
+  },
+  {
+    "nome": "LAGOA SANTA",
+    "codigo_ibge": "5212253"
+  },
+  {
+    "nome": "LEOPOLDO DE BULHOES",
+    "codigo_ibge": "5212303"
+  },
+  {
+    "nome": "LUZIANIA",
+    "codigo_ibge": "5212501"
+  },
+  {
+    "nome": "MAIRIPOTABA",
+    "codigo_ibge": "5212600"
+  },
+  {
+    "nome": "MAMBAI",
+    "codigo_ibge": "5212709"
+  },
+  {
+    "nome": "MARA ROSA",
+    "codigo_ibge": "5212808"
+  },
+  {
+    "nome": "MARZAGAO",
+    "codigo_ibge": "5212907"
+  },
+  {
+    "nome": "MATRINCHA",
+    "codigo_ibge": "5212956"
+  },
+  {
+    "nome": "MAURILANDIA",
+    "codigo_ibge": "5213004"
+  },
+  {
+    "nome": "MIMOSO DE GOIAS",
+    "codigo_ibge": "5213053"
+  },
+  {
+    "nome": "MINACU",
+    "codigo_ibge": "5213087"
+  },
+  {
+    "nome": "MINEIROS",
+    "codigo_ibge": "5213103"
+  },
+  {
+    "nome": "MOIPORA",
+    "codigo_ibge": "5213400"
+  },
+  {
+    "nome": "MONTE ALEGRE DE GOIAS",
+    "codigo_ibge": "5213509"
+  },
+  {
+    "nome": "MONTES CLAROS DE GOIAS",
+    "codigo_ibge": "5213707"
+  },
+  {
+    "nome": "MONTIVIDIU",
+    "codigo_ibge": "5213756"
+  },
+  {
+    "nome": "MONTIVIDIU DO NORTE",
+    "codigo_ibge": "5213772"
+  },
+  {
+    "nome": "MORRINHOS",
+    "codigo_ibge": "5213806"
+  },
+  {
+    "nome": "MORRO AGUDO DE GOIAS",
+    "codigo_ibge": "5213855"
+  },
+  {
+    "nome": "MOSSAMEDES",
+    "codigo_ibge": "5213905"
+  },
+  {
+    "nome": "MOZARLANDIA",
+    "codigo_ibge": "5214002"
+  },
+  {
+    "nome": "MUNDO NOVO",
+    "codigo_ibge": "5214051"
+  },
+  {
+    "nome": "MUTUNOPOLIS",
+    "codigo_ibge": "5214101"
+  },
+  {
+    "nome": "NAZARIO",
+    "codigo_ibge": "5214408"
+  },
+  {
+    "nome": "NEROPOLIS",
+    "codigo_ibge": "5214507"
+  },
+  {
+    "nome": "NIQUELANDIA",
+    "codigo_ibge": "5214606"
+  },
+  {
+    "nome": "NOVA AMERICA",
+    "codigo_ibge": "5214705"
+  },
+  {
+    "nome": "NOVA AURORA",
+    "codigo_ibge": "5214804"
+  },
+  {
+    "nome": "NOVA CRIXAS",
+    "codigo_ibge": "5214838"
+  },
+  {
+    "nome": "NOVA GLORIA",
+    "codigo_ibge": "5214861"
+  },
+  {
+    "nome": "NOVA IGUACU DE GOIAS",
+    "codigo_ibge": "5214879"
+  },
+  {
+    "nome": "NOVA ROMA",
+    "codigo_ibge": "5214903"
+  },
+  {
+    "nome": "NOVA VENEZA",
+    "codigo_ibge": "5215009"
+  },
+  {
+    "nome": "NOVO BRASIL",
+    "codigo_ibge": "5215207"
+  },
+  {
+    "nome": "NOVO GAMA",
+    "codigo_ibge": "5215231"
+  },
+  {
+    "nome": "NOVO PLANALTO",
+    "codigo_ibge": "5215256"
+  },
+  {
+    "nome": "ORIZONA",
+    "codigo_ibge": "5215306"
+  },
+  {
+    "nome": "OURO VERDE DE GOIAS",
+    "codigo_ibge": "5215405"
+  },
+  {
+    "nome": "OUVIDOR",
+    "codigo_ibge": "5215504"
+  },
+  {
+    "nome": "PADRE BERNARDO",
+    "codigo_ibge": "5215603"
+  },
+  {
+    "nome": "PALESTINA DE GOIAS",
+    "codigo_ibge": "5215652"
+  },
+  {
+    "nome": "PALMEIRAS DE GOIAS",
+    "codigo_ibge": "5215702"
+  },
+  {
+    "nome": "PALMELO",
+    "codigo_ibge": "5215801"
+  },
+  {
+    "nome": "PALMINOPOLIS",
+    "codigo_ibge": "5215900"
+  },
+  {
+    "nome": "PANAMA",
+    "codigo_ibge": "5216007"
+  },
+  {
+    "nome": "PARANAIGUARA",
+    "codigo_ibge": "5216304"
+  },
+  {
+    "nome": "PARAUNA",
+    "codigo_ibge": "5216403"
+  },
+  {
+    "nome": "PEROLANDIA",
+    "codigo_ibge": "5216452"
+  },
+  {
+    "nome": "PETROLINA DE GOIAS",
+    "codigo_ibge": "5216809"
+  },
+  {
+    "nome": "PILAR DE GOIAS",
+    "codigo_ibge": "5216908"
+  },
+  {
+    "nome": "PIRACANJUBA",
+    "codigo_ibge": "5217104"
+  },
+  {
+    "nome": "PIRANHAS",
+    "codigo_ibge": "5217203"
+  },
+  {
+    "nome": "PIRENOPOLIS",
+    "codigo_ibge": "5217302"
+  },
+  {
+    "nome": "PIRES DO RIO",
+    "codigo_ibge": "5217401"
+  },
+  {
+    "nome": "PLANALTINA",
+    "codigo_ibge": "5217609"
+  },
+  {
+    "nome": "PONTALINA",
+    "codigo_ibge": "5217708"
+  },
+  {
+    "nome": "PORANGATU",
+    "codigo_ibge": "5218003"
+  },
+  {
+    "nome": "PORTEIRAO",
+    "codigo_ibge": "5218052"
+  },
+  {
+    "nome": "PORTELANDIA",
+    "codigo_ibge": "5218102"
+  },
+  {
+    "nome": "POSSE",
+    "codigo_ibge": "5218300"
+  },
+  {
+    "nome": "PROFESSOR JAMIL",
+    "codigo_ibge": "5218391"
+  },
+  {
+    "nome": "QUIRINOPOLIS",
+    "codigo_ibge": "5218508"
+  },
+  {
+    "nome": "RIALMA",
+    "codigo_ibge": "5218607"
+  },
+  {
+    "nome": "RIANAPOLIS",
+    "codigo_ibge": "5218706"
+  },
+  {
+    "nome": "RIO QUENTE",
+    "codigo_ibge": "5218789"
+  },
+  {
+    "nome": "RIO VERDE",
+    "codigo_ibge": "5218805"
+  },
+  {
+    "nome": "RUBIATABA",
+    "codigo_ibge": "5218904"
+  },
+  {
+    "nome": "SANCLERLANDIA",
+    "codigo_ibge": "5219001"
+  },
+  {
+    "nome": "SANTA BARBARA DE GOIAS",
+    "codigo_ibge": "5219100"
+  },
+  {
+    "nome": "SANTA CRUZ DE GOIAS",
+    "codigo_ibge": "5219209"
+  },
+  {
+    "nome": "SANTA FE DE GOIAS",
+    "codigo_ibge": "5219258"
+  },
+  {
+    "nome": "SANTA HELENA DE GOIAS",
+    "codigo_ibge": "5219308"
+  },
+  {
+    "nome": "SANTA ISABEL",
+    "codigo_ibge": "5219357"
+  },
+  {
+    "nome": "SANTA RITA DO ARAGUAIA",
+    "codigo_ibge": "5219407"
+  },
+  {
+    "nome": "SANTA RITA DO NOVO DESTINO",
+    "codigo_ibge": "5219456"
+  },
+  {
+    "nome": "SANTA ROSA DE GOIAS",
+    "codigo_ibge": "5219506"
+  },
+  {
+    "nome": "SANTA TEREZA DE GOIAS",
+    "codigo_ibge": "5219605"
+  },
+  {
+    "nome": "SANTA TEREZINHA DE GOIAS",
+    "codigo_ibge": "5219704"
+  },
+  {
+    "nome": "SANTO ANTONIO DA BARRA",
+    "codigo_ibge": "5219712"
+  },
+  {
+    "nome": "SANTO ANTONIO DE GOIAS",
+    "codigo_ibge": "5219738"
+  },
+  {
+    "nome": "SANTO ANTONIO DO DESCOBERTO",
+    "codigo_ibge": "5219753"
+  },
+  {
+    "nome": "SAO DOMINGOS",
+    "codigo_ibge": "5219803"
+  },
+  {
+    "nome": "SAO FRANCISCO DE GOIAS",
+    "codigo_ibge": "5219902"
+  },
+  {
+    "nome": "SAO JOAO D ALIANCA",
+    "codigo_ibge": "5220009"
+  },
+  {
+    "nome": "SAO JOAO DA PARAUNA",
+    "codigo_ibge": "5220058"
+  },
+  {
+    "nome": "SAO LUIS DE MONTES BELOS",
+    "codigo_ibge": "5220108"
+  },
+  {
+    "nome": "SAO LUIZ DO NORTE",
+    "codigo_ibge": "5220157"
+  },
+  {
+    "nome": "SAO MIGUEL DO ARAGUAIA",
+    "codigo_ibge": "5220207"
+  },
+  {
+    "nome": "SAO MIGUEL DO PASSA QUATRO",
+    "codigo_ibge": "5220264"
+  },
+  {
+    "nome": "SAO PATRICIO",
+    "codigo_ibge": "5220280"
+  },
+  {
+    "nome": "SAO SIMAO",
+    "codigo_ibge": "5220405"
+  },
+  {
+    "nome": "SENADOR CANEDO",
+    "codigo_ibge": "5220454"
+  },
+  {
+    "nome": "SERRANOPOLIS",
+    "codigo_ibge": "5220504"
+  },
+  {
+    "nome": "SILVANIA",
+    "codigo_ibge": "5220603"
+  },
+  {
+    "nome": "SIMOLANDIA",
+    "codigo_ibge": "5220686"
+  },
+  {
+    "nome": "SITIO D ABADIA",
+    "codigo_ibge": "5220702"
+  },
+  {
+    "nome": "TAQUARAL DE GOIAS",
+    "codigo_ibge": "5221007"
+  },
+  {
+    "nome": "TERESINA DE GOIAS",
+    "codigo_ibge": "5221080"
+  },
+  {
+    "nome": "TEREZOPOLIS DE GOIAS",
+    "codigo_ibge": "5221197"
+  },
+  {
+    "nome": "TRES RANCHOS",
+    "codigo_ibge": "5221304"
+  },
+  {
+    "nome": "TRINDADE",
+    "codigo_ibge": "5221403"
+  },
+  {
+    "nome": "TROMBAS",
+    "codigo_ibge": "5221452"
+  },
+  {
+    "nome": "TURVANIA",
+    "codigo_ibge": "5221502"
+  },
+  {
+    "nome": "TURVELANDIA",
+    "codigo_ibge": "5221551"
+  },
+  {
+    "nome": "UIRAPURU",
+    "codigo_ibge": "5221577"
+  },
+  {
+    "nome": "URUACU",
+    "codigo_ibge": "5221601"
+  },
+  {
+    "nome": "URUANA",
+    "codigo_ibge": "5221700"
+  },
+  {
+    "nome": "URUTAI",
+    "codigo_ibge": "5221809"
+  },
+  {
+    "nome": "VALPARAISO DE GOIAS",
+    "codigo_ibge": "5221858"
+  },
+  {
+    "nome": "VARJAO",
+    "codigo_ibge": "5221908"
+  },
+  {
+    "nome": "VIANOPOLIS",
+    "codigo_ibge": "5222005"
+  },
+  {
+    "nome": "VICENTINOPOLIS",
+    "codigo_ibge": "5222054"
+  },
+  {
+    "nome": "VILA BOA",
+    "codigo_ibge": "5222203"
+  },
+  {
+    "nome": "VILA PROPICIO",
+    "codigo_ibge": "5222302"
+  }
+]

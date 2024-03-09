@@ -1,0 +1,90 @@
+[
+  {
+    "nome": "ACRELANDIA",
+    "codigo_ibge": "1200013"
+  },
+  {
+    "nome": "ASSIS BRASIL",
+    "codigo_ibge": "1200054"
+  },
+  {
+    "nome": "BRASILEIA",
+    "codigo_ibge": "1200104"
+  },
+  {
+    "nome": "BUJARI",
+    "codigo_ibge": "1200138"
+  },
+  {
+    "nome": "CAPIXABA",
+    "codigo_ibge": "1200179"
+  },
+  {
+    "nome": "CRUZEIRO DO SUL",
+    "codigo_ibge": "1200203"
+  },
+  {
+    "nome": "EPITACIOLANDIA",
+    "codigo_ibge": "1200252"
+  },
+  {
+    "nome": "FEIJO",
+    "codigo_ibge": "1200302"
+  },
+  {
+    "nome": "JORDAO",
+    "codigo_ibge": "1200328"
+  },
+  {
+    "nome": "MANCIO LIMA",
+    "codigo_ibge": "1200336"
+  },
+  {
+    "nome": "MANOEL URBANO",
+    "codigo_ibge": "1200344"
+  },
+  {
+    "nome": "MARECHAL THAUMATURGO",
+    "codigo_ibge": "1200351"
+  },
+  {
+    "nome": "PLACIDO DE CASTRO",
+    "codigo_ibge": "1200385"
+  },
+  {
+    "nome": "PORTO WALTER",
+    "codigo_ibge": "1200393"
+  },
+  {
+    "nome": "RIO BRANCO",
+    "codigo_ibge": "1200401"
+  },
+  {
+    "nome": "RODRIGUES ALVES",
+    "codigo_ibge": "1200427"
+  },
+  {
+    "nome": "SANTA ROSA DO PURUS",
+    "codigo_ibge": "1200435"
+  },
+  {
+    "nome": "SENADOR GUIOMARD",
+    "codigo_ibge": "1200450"
+  },
+  {
+    "nome": "SENA MADUREIRA",
+    "codigo_ibge": "1200500"
+  },
+  {
+    "nome": "TARAUACA",
+    "codigo_ibge": "1200609"
+  },
+  {
+    "nome": "XAPURI",
+    "codigo_ibge": "1200708"
+  },
+  {
+    "nome": "PORTO ACRE",
+    "codigo_ibge": "1200807"
+  }
+]
