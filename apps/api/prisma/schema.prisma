@@ -14,6 +14,17 @@ model State {
   external_id String   @unique
   created_at  DateTime @default(now())
   updated_at  DateTime @default(now()) @updatedAt
+  cities      City[]
 
   @@map("states")
+}
+
+model City {
+  id          String @id @default(uuid())
+  name        String
+  external_id String @unique
+  state_id    String
+  state       State  @relation(fields: [state_id], references: [id])
+
+  @@map("cities")
 }
