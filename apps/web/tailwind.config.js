@@ -3,6 +3,10 @@ module.exports = {
   content: ['./src/app/**/*.tsx, src/components/**/*.tsx'],
   plugins: [],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: 'var(--font-primary)',
+      },
+    },
   },
 }
