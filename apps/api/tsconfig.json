@@ -1,6 +1,6 @@
 {
   "extends": "@ignite-find-a-friend/typescript-config/base.json",
-  "include": ["**/*.ts"],
+  "include": ["**/*.ts", "**/*.mts"],
   "exclude": ["node_modules"],
   "compilerOptions": {
     "baseUrl": "./",
