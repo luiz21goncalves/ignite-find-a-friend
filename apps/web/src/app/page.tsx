@@ -1,5 +1,6 @@
 import { Search } from 'lucide-react'
 import Image from 'next/image'
+import { Suspense } from 'react'
 
 import {
   Select,
@@ -10,6 +11,8 @@ import {
   SelectTrigger,
   SelectValue,
 } from '@/components/ui/select'
+
+import { SelectState } from './select-state'
 
 export default function Page() {
   return (
@@ -37,18 +40,13 @@ export default function Page() {
             Busque um amigo:
           </label>
           <div className="grid flex-shrink grid-cols-[80px_280px] gap-2">
-            <Select>
-              <SelectTrigger className="text-primary-foreground h-20 w-fit min-w-20 flex-shrink-0 border-2 bg-transparent text-2xl font-semibold">
-                <SelectValue placeholder="UF" />
-              </SelectTrigger>
-              <SelectContent>
-                <SelectGroup>
-                  <SelectLabel>UF</SelectLabel>
-                  <SelectItem value="MG">MG</SelectItem>
-                  <SelectItem value="SP">SP</SelectItem>
-                </SelectGroup>
-              </SelectContent>
-            </Select>
+            <Suspense
+              fallback={
+                <div className="h-20 w-20 rounded-2xl border-2 border-white bg-transparent" />
+              }
+            >
+              <SelectState />
+            </Suspense>
             <Select>
               <SelectTrigger className="bg-primary text-primary-foreground h-20 border-none text-2xl font-semibold">
                 <SelectValue placeholder="Selecione a cidade" />
