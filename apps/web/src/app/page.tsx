@@ -1,20 +1,20 @@
 import { Search } from 'lucide-react'
 import Image from 'next/image'
-import { Suspense } from 'react'
 
-import {
-  Select,
-  SelectContent,
-  SelectGroup,
-  SelectItem,
-  SelectLabel,
-  SelectTrigger,
-  SelectValue,
-} from '@/components/ui/select'
-
+import { getCities, getStates } from './actions'
+import { SelectCity } from './select-city'
 import { SelectState } from './select-state'
 
-export default function Page() {
+type HomePageProps = {
+  searchParams: { uf?: string }
+}
+
+export default async function HomePage({ searchParams }: HomePageProps) {
+  const [states, cities] = await Promise.all([
+    getStates(),
+    getCities(searchParams.uf),
+  ])
+
   return (
     <div className="flex h-screen w-full items-center justify-between gap-32 bg-red-500 p-28 text-white">
       <div className="flex h-full w-[487px] flex-col items-start justify-between">
@@ -40,25 +40,8 @@ export default function Page() {
             Busque um amigo:
           </label>
           <div className="grid flex-shrink grid-cols-[80px_280px] gap-2">
-            <Suspense
-              fallback={
-                <div className="h-20 w-20 rounded-2xl border-2 border-white bg-transparent" />
-              }
-            >
-              <SelectState />
-            </Suspense>
-            <Select>
-              <SelectTrigger className="bg-primary text-primary-foreground h-20 border-none text-2xl font-semibold">
-                <SelectValue placeholder="Selecione a cidade" />
-              </SelectTrigger>
-              <SelectContent>
-                <SelectGroup>
-                  <SelectLabel>UF</SelectLabel>
-                  <SelectItem value="MG">Cidade 1</SelectItem>
-                  <SelectItem value="SP">Cidade 2</SelectItem>
-                </SelectGroup>
-              </SelectContent>
-            </Select>
+            <SelectState states={states} />
+            <SelectCity cities={cities} />
           </div>
           <button
             className="flex h-20 w-20 items-center justify-center rounded-3xl bg-yellow-400 text-blue-950"
